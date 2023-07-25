@@ -3,7 +3,8 @@
 ![/index.html](https://github.com/bb2882/bin/assets/70382872/707b9721-e652-42ef-bea1-be9c12190906)
 
 
-![/cart.html](https://github.com/bb2882/bin/assets/70382872/37763f71-9e93-42bb-8680-18f49040bc9c)
+![/cart.html](https://github.com/bb2882/bin/assets/70382872/79127f99-34d3-40dd-ba62-b67b93e422c5)
+
 
 Welcome to the Watches Test Project! This is a simple web application that allows users to add watches to their shopping cart on the `/index.html` page and view the cart with the selected watches on the `/cart.html` page. The project is built with HTML, CSS, and JavaScript, utilizing `localStorage` to store the cart data.
 
